@@ -8,4 +8,4 @@
 ]] 
 
 
-loadstring(game:HttpGet("https://github.com/Bilsurrr/Fluxus/blob/main/Sorry%20Skids%20LMFAO"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bilsurrr/Fluxus/refs/heads/main/Sorry%20Skids%20LMFAO"))()
