@@ -7,5 +7,10 @@
 |_| |_|\__,_/_/\_\\__,_|___/ 
 ]] 
 
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "key is bilsr123.",
+Text = "enjoy the script!", 
+Duration = 30
+})
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bilsurrr/Fluxus/refs/heads/main/Sorry%20Skids%20LMFAO"))()
